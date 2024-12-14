@@ -1,1 +1,7 @@
-const parsedCompanies = []
+const parsedCompanies = [
+  {
+    "name": "devroad",
+    "domain": null,
+    "boards": []
+  }
+];
