@@ -1,6 +1,7 @@
 const parsedCompanies = [
   {
     "name": "devroad",
+    "code": "devcode",
     "domain": null,
     "boards": []
   },
