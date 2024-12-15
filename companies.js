@@ -2,7 +2,7 @@ const parsedCompanies = [
   {
     "name": "devroad",
     "code": "devcode",
-    "domain": null,
+    "domain": "https://devroad.io",
     "boards": []
   },
   {
