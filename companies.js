@@ -16,10 +16,6 @@ const parsedCompanies = [
       {
         "title": "test",
         "url": "https://devroad.io"
-      },
-      {
-        "title": "test2",
-        "url": "https://devroad.io"
       }
     ]
   }
