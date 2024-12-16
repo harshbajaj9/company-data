@@ -5,7 +5,7 @@ const parsedCompanies = [
     "domain": "https://devroad.io",
     "boards": [
       {
-        "title": "test",
+        "title": "devroad careers",
         "url": "https://devroad.io"
       }
     ]
