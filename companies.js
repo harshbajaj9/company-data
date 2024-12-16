@@ -134,5 +134,32 @@ const parsedCompanies = [
         "title": "Wellfound"
       }
     ]
+  },
+  {
+    "name": "Apple",
+    "code": "apple",
+    "domain": "https://jobs.apple.com/search",
+    "boards": [
+      {
+        "url": "https://jobs.apple.com/search",
+        "title": "Jobs at Apple"
+      },
+      {
+        "url": "https://www.linkedin.com/company/apple/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Apple/jobs",
+        "title": "indeed"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/Apple-Jobs-E1138.htm",
+        "title": "GLASSDOOR"
+      },
+      {
+        "url": "https://www.naukri.com/apple-jobs",
+        "title": "naukri"
+      }
+    ]
   }
 ];
