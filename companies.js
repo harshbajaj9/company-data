@@ -67,36 +67,36 @@ const parsedCompanies = [
     "domain": "https://www.amazon.jobs/en/search",
     "boards": [
       {
-        "url": "https://www.amazon.jobs/en/search",
-        "title": "amazon jobs"
+        "title": "amazon jobs",
+        "url": "https://www.amazon.jobs/en/search"
       },
       {
-        "url": "https://www.linkedin.com/company/amazon/jobs",
-        "title": "LinkedIn"
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/company/amazon/jobs"
       },
       {
-        "url": "https://in.indeed.com/cmp/Amazon.com/jobs",
-        "title": "indeed"
+        "title": "indeed",
+        "url": "https://www.indeed.com/cmp/Amazon.com/jobs"
       },
       {
-        "url": "https://www.glassdoor.com/Jobs/Amazon-Jobs-E6036.htm",
-        "title": "GLASSDOOR"
+        "title": "GLASSDOOR",
+        "url": "https://www.glassdoor.com/Jobs/Amazon-Jobs-E6036.htm"
       },
       {
-        "url": "https://www.naukri.com/amazon-jobs",
-        "title": "naukri"
+        "title": "naukri",
+        "url": "https://www.naukri.com/amazon-jobs"
       },
       {
-        "url": "https://www.instahyre.com/jobs-at-amazon/",
-        "title": "instahyre"
+        "title": "instahyre",
+        "url": "https://www.instahyre.com/jobs-at-amazon/"
       },
       {
-        "url": "https://wellfound.com/company/amazon/jobs",
-        "title": "Wellfound"
+        "title": "Wellfound",
+        "url": "https://wellfound.com/company/amazon/jobs"
       },
       {
-        "url": "https://www.ambitionbox.com/jobs/amazon-jobs-cmp",
-        "title": "AmbitionBox"
+        "title": "AmbitionBox",
+        "url": "https://www.ambitionbox.com/jobs/amazon-jobs-cmp"
       }
     ]
   }
