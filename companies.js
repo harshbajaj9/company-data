@@ -99,5 +99,40 @@ const parsedCompanies = [
         "url": "https://www.ambitionbox.com/jobs/amazon-jobs-cmp"
       }
     ]
+  },
+  {
+    "name": "Microsoft",
+    "code": "microsoft",
+    "domain": "https://jobs.careers.microsoft.com/global/en/search",
+    "boards": [
+      {
+        "url": "https://jobs.careers.microsoft.com/global/en/search",
+        "title": "Microsoft Careers"
+      },
+      {
+        "url": "https://www.linkedin.com/company/microsoft/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Microsoft/jobs",
+        "title": "indeed"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/Microsoft-Jobs-E1651.htm",
+        "title": "GLASSDOOR"
+      },
+      {
+        "url": "https://www.naukri.com/microsoft-jobs",
+        "title": "naukri"
+      },
+      {
+        "url": "https://www.instahyre.com/jobs-at-microsoft-2/",
+        "title": "instahyre"
+      },
+      {
+        "url": "https://wellfound.com/company/microsoft/jobs",
+        "title": "Wellfound"
+      }
+    ]
   }
 ];
