@@ -60,5 +60,44 @@ const parsedCompanies = [
         "title": "naukri"
       }
     ]
+  },
+  {
+    "name": "Amazon",
+    "code": "amazon",
+    "domain": "https://www.amazon.jobs/en/search",
+    "boards": [
+      {
+        "url": "https://www.amazon.jobs/en/search",
+        "title": "amazon jobs"
+      },
+      {
+        "url": "https://www.linkedin.com/company/amazon/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://in.indeed.com/cmp/Amazon.com/jobs",
+        "title": "indeed"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/Amazon-Jobs-E6036.htm",
+        "title": "GLASSDOOR"
+      },
+      {
+        "url": "https://www.naukri.com/amazon-jobs",
+        "title": "naukri"
+      },
+      {
+        "url": "https://www.instahyre.com/jobs-at-amazon/",
+        "title": "instahyre"
+      },
+      {
+        "url": "https://wellfound.com/company/amazon/jobs",
+        "title": "Wellfound"
+      },
+      {
+        "url": "https://www.ambitionbox.com/jobs/amazon-jobs-cmp",
+        "title": "AmbitionBox"
+      }
+    ]
   }
 ];
