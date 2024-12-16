@@ -7,6 +7,10 @@ const parsedCompanies = [
       {
         "title": "devroad careers",
         "url": "https://devroad.io"
+      },
+      {
+        "title": "wellfound",
+        "url": "https://wellfound.com/company/airbnb"
       }
     ]
   },
