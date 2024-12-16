@@ -33,5 +33,32 @@ const parsedCompanies = [
         "url": "https://x.com/jobs?cname=google"
       }
     ]
+  },
+  {
+    "name": "Meta",
+    "code": "meta",
+    "domain": "https://www.metacareers.com/jobs/",
+    "boards": [
+      {
+        "url": "https://www.metacareers.com/jobs/",
+        "title": "Meta Careers"
+      },
+      {
+        "url": "https://www.linkedin.com/company/meta/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Meta-dd1502f2/jobs",
+        "title": "indeed"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/Meta-Jobs-E40772.htm",
+        "title": "GLASSDOOR"
+      },
+      {
+        "url": "https://www.naukri.com/meta-platforms-jobs-careers-632697",
+        "title": "naukri"
+      }
+    ]
   }
 ];
