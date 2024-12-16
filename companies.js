@@ -11,6 +11,10 @@ const parsedCompanies = [
       {
         "title": "wellfound",
         "url": "https://wellfound.com/company/airbnb"
+      },
+      {
+        "title": "instahyre",
+        "url": "https://www.instahyre.com/jobs-at-airbnb/"
       }
     ]
   },
