@@ -15,6 +15,10 @@ const parsedCompanies = [
       {
         "title": "instahyre",
         "url": "https://www.instahyre.com/jobs-at-airbnb/"
+      },
+      {
+        "title": "linkedin",
+        "url": "https://www.linkedin.com/company/airbnb/jobs"
       }
     ]
   },
