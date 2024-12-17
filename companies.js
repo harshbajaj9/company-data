@@ -215,5 +215,24 @@ const parsedCompanies = [
         "title": "GLASSDOOR"
       }
     ]
+  },
+  {
+    "name": "LinkedIn",
+    "code": "linkedin",
+    "domain": "https://careers.linkedin.com/WhyLinkedIn",
+    "boards": [
+      {
+        "url": "https://www.tesla.com/careers/search/?site=US",
+        "title": "LinkedIn Careers"
+      },
+      {
+        "url": "https://www.linkedin.com/company/linkedin/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/LinkedIn-Jobs-E34865.htm",
+        "title": "GLASSDOOR"
+      }
+    ]
   }
 ];
