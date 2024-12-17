@@ -253,5 +253,36 @@ const parsedCompanies = [
         "title": "naukri"
       }
     ]
+  },
+  {
+    "name": "IBM",
+    "code": "ibm",
+    "domain": "https://www.ibm.com/in-en/careers/search",
+    "boards": [
+      {
+        "url": "https://www.ibm.com/in-en/careers/search",
+        "title": "IBM Careers"
+      },
+      {
+        "url": "https://www.linkedin.com/company/ibm/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/IBM-Jobs-E354.htm",
+        "title": "GLASSDOOR"
+      },
+      {
+        "url": "https://www.naukri.com/ibm-jobs-careers-16987",
+        "title": "naukri"
+      },
+      {
+        "url": "https://www.instahyre.com/jobs-at-ibm/",
+        "title": "instahyre"
+      },
+      {
+        "url": "https://www.ambitionbox.com/jobs/ibm-jobs-cmp",
+        "title": "AmbitionBox"
+      }
+    ]
   }
 ];
