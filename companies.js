@@ -192,5 +192,28 @@ const parsedCompanies = [
         "title": "instahyre"
       }
     ]
+  },
+  {
+    "name": "Tesla",
+    "code": "tesla",
+    "domain": "https://www.tesla.com/careers/search/?site=US",
+    "boards": [
+      {
+        "url": "https://www.tesla.com/careers/search/?site=US",
+        "title": "Tesla Careers"
+      },
+      {
+        "url": "https://www.linkedin.com/company/tesla-motors/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Tesla/jobs",
+        "title": "indeed"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/Tesla-Jobs-E43129.htm",
+        "title": "GLASSDOOR"
+      }
+    ]
   }
 ];
