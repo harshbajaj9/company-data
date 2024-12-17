@@ -222,16 +222,16 @@ const parsedCompanies = [
     "domain": "https://careers.linkedin.com/WhyLinkedIn",
     "boards": [
       {
-        "url": "https://www.tesla.com/careers/search/?site=US",
-        "title": "LinkedIn Careers"
+        "title": "LinkedIn Careers",
+        "url": "https://www.tesla.com/careers/search/?site=US"
       },
       {
-        "url": "https://www.linkedin.com/company/linkedin/jobs",
-        "title": "LinkedIn"
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/company/linkedin/jobs"
       },
       {
-        "url": "https://www.glassdoor.com/Jobs/LinkedIn-Jobs-E34865.htm",
-        "title": "GLASSDOOR"
+        "title": "GLASSDOOR",
+        "url": "https://www.glassdoor.com/Jobs/LinkedIn-Jobs-E34865.htm"
       }
     ]
   }
