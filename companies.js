@@ -234,5 +234,24 @@ const parsedCompanies = [
         "url": "https://www.glassdoor.com/Jobs/LinkedIn-Jobs-E34865.htm"
       }
     ]
+  },
+  {
+    "name": "Stripe",
+    "code": "stripe",
+    "domain": "https://stripe.com/jobs/search",
+    "boards": [
+      {
+        "url": "https://stripe.com/jobs/search",
+        "title": "Stripe JOBS"
+      },
+      {
+        "url": "https://www.linkedin.com/company/stripe/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.naukri.com/stripe-jobs",
+        "title": "naukri"
+      }
+    ]
   }
 ];
