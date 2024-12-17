@@ -223,7 +223,7 @@ const parsedCompanies = [
     "boards": [
       {
         "title": "LinkedIn Careers",
-        "url": "https://www.tesla.com/careers/search/?site=US"
+        "url": "https://careers.linkedin.com/WhyLinkedIn"
       },
       {
         "title": "LinkedIn",
