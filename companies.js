@@ -161,5 +161,36 @@ const parsedCompanies = [
         "title": "naukri"
       }
     ]
+  },
+  {
+    "name": "Uber",
+    "code": "uber",
+    "domain": "https://www.uber.com/careers/list",
+    "boards": [
+      {
+        "url": "https://www.uber.com/careers/list",
+        "title": "Uber Careers"
+      },
+      {
+        "url": "https://www.linkedin.com/company/uber-com/jobs",
+        "title": "LinkedIn"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Uber/jobs",
+        "title": "indeed"
+      },
+      {
+        "url": "https://www.glassdoor.com/Jobs/Uber-Jobs-E575263.htm",
+        "title": "GLASSDOOR"
+      },
+      {
+        "url": "https://www.naukri.com/uber-jobs",
+        "title": "naukri"
+      },
+      {
+        "url": "https://www.instahyre.com/jobs-at-uber/",
+        "title": "instahyre"
+      }
+    ]
   }
 ];
